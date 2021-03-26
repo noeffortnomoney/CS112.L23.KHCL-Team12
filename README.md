@@ -8,7 +8,7 @@
 ### Giảng viên
 * Ths. Huỳnh Thị Thanh Thương - thuonghtt@uit.edu.vn
 * Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
-### Thành viên nhóm
+### Thành viên nhóm 12
 
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- | 
