@@ -1,4 +1,4 @@
-# CS112.L23.KHCL - Algorithms Analysis and Design
+# CS112.L23.KHCL - Design and Analysis of Algorithms
 
 ## Giới thiệu
 * Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHMS ANALYSIS AND DESIGN
