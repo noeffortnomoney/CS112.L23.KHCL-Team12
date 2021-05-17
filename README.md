@@ -1,7 +1,7 @@
 # CS112.L23.KHCL - Design and Analysis of Algorithms
 
 ## Giới thiệu
-* Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHMS ANALYSIS AND DESIGN
+* Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - Design and Analysis of Algorithms
 * Mã lớp: CS112.L23.KHCL
 * Năm học: HK2 (2020-2021)
 
