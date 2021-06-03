@@ -8,6 +8,7 @@
 ### Giảng viên
 * Ths. Huỳnh Thị Thanh Thương - thuonghtt@uit.edu.vn
 * Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
+* 
 ### Thành viên nhóm 12
 
 | STT | Họ tên | MSSV | Email | Github |
@@ -15,5 +16,10 @@
 | 1 | Trương Quốc Bình | 19521270 | 19521270@gm.uit.edu.vn | [noeffortnomoney](https://github.com/noeffortnomoney) |
 | 2 | Trần Vĩ Hào | 19521482 | 19521482@gm.uit.edu.vn | [hlhkudo](https://github.com/hlhkudo) |
 | 3 | Lê Đặng Đăng Huy | 19521612 | 19521612@gm.uit.edu.vn | [realdanghuy](https://github.com/realdanghuy) |
+
+# Chủ đề Thuyết trình
+  * DYNAMIC PROGRAMMING
+
+  
 
 `Editor by Bình Quốc Trương`
