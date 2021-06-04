@@ -42,7 +42,13 @@
 
 `Editor by Bình Quốc Trương`
 
+### Ghi chú (https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
+"Sorry, something went wrong. Reload?" when viewing *.ipynb
 
+Try to open that notebook that you want using nbviewer online, you don't need to install it.
+
+* Open "https://nbviewer.jupyter.org/"
+* Paste the link to your notebook, (e.g. "https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb") there and then you get "http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb"
 
 
 
