@@ -26,7 +26,7 @@
   * [Bài làm các nhóm nộp bài và Nhận xét Homework Dynamic Programming](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Homework/B%C3%A0i%20n%E1%BB%99p%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m%20kh%C3%A1c)
 
 ## Quá trình học
-### 1. [Assignment 1](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%201): Tảo biển + Trạm thu phí
+### 1. [Assignment 1](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%201): BOT + SEAWEED
    * [BOT - Trạm thu phí](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%201/BOT.ipynb)
    * [SEAWEED - Tảo biển](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%201/Taobien.ipynb)
 ### 2. [Assignment 2](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%202): H-index + MAXSTR
@@ -38,7 +38,7 @@
 ### 4. [Assignment 4](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%204): Wall + Fraction
    * [WALL - SỬA HÀNG RÀO]
    * [FRACTION - PHÂN SỐ](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%204/PhanSo.ipynb)
-### 5. [Homework]
+### 5. [Homework](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Ph%E1%BA%A7n%20l%C3%A0m%20BTVN%20c%E1%BB%A7a%20nh%C3%B3m%2012)
 
 `Editor by Bình Quốc Trương`
 
