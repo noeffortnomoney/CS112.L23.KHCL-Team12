@@ -38,7 +38,7 @@
 ### 4. [Assignment 4](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%204): WALL + FRACTION
    * [WALL - SỬA HÀNG RẢO]
    * [FRACTION - PHÂN SỐ](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%204/PhanSo.ipynb)
-### 5. [Homework](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Ph%E1%BA%A7n%20l%C3%A0m%20BTVN%20c%E1%BB%A7a%20nh%C3%B3m%2012)
+### 5. [Homework](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Ph%E1%BA%A7n%20l%C3%A0m%20BTVN%20c%E1%BB%A7a%20nh%C3%B3m%2012)
 
 `Editor by Bình Quốc Trương`
 
