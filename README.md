@@ -23,7 +23,7 @@
   * [Slide thuyết trình](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Project/Dynamic%20Programming%20(DP).pdf)
   * [Quá trình phát biểu](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Project/Qu%C3%A1%20tr%C3%ACnh%20ph%C3%A1t%20bi%E1%BB%83u%20-%20Thuy%E1%BA%BFt%20tr%C3%ACnh%20DYNAMIC%20PROGRAMMING.pdf)
   * [Kahoot - Quizz - Dynamic Programming](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Project/Kahoot_Quizz_DynamicProgramming.pdf)
-  * [Homework Dynamic Programming](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Homework)
+  * [Homework Dynamic Programming](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Project/Homework/Homework%20(DP).pdf)
   * [Bài làm các nhóm nộp bài và Nhận xét Homework Dynamic Programming](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Homework/B%C3%A0i%20n%E1%BB%99p%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m%20kh%C3%A1c)
   * [Tài liệu tham khảo](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Reference)
 
