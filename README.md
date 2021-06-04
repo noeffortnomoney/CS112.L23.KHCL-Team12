@@ -27,16 +27,16 @@
 
 ## Quá trình học
 ### 1. [Assignment 1](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%201): BOT + SEAWEED
-   * [BOT - Trạm thu phí](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%201/BOT.ipynb)
-   * [SEAWEED - Tảo biển](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%201/Taobien.ipynb)
-### 2. [Assignment 2](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%202): H-index + MAXSTR
-   * [H-index](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%202/H-Index.ipynb)
-   * [MAXSTR - Khóa số](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%202/Khoaso.ipynb)
-### 3. [Assignment 3](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%203): Renewed + Newnum
+   * [BOT - TRẠM THU PHÍ](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%201/BOT.ipynb)
+   * [SEAWEED - TẢO BIỂN](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%201/Taobien.ipynb)
+### 2. [Assignment 2](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%202): H-INDEX + MAXSTR
+   * [H-INDEX](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%202/H-Index.ipynb)
+   * [MAXSTR - KHÓA SỐ](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%202/Khoaso.ipynb)
+### 3. [Assignment 3](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%203): RENEWED + NEWNUM
    * [RENEWED - ĐỔI MỚI](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%203/DOIMOI.ipynb)
    * [NEWNUM - SỐ NGUYÊN MỚI](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%203/SONGUYENMOI.ipynb)
-### 4. [Assignment 4](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%204): Wall + Fraction
-   * [WALL - SỬA HÀNG RÀO]
+### 4. [Assignment 4](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%204): WALL + FRACTION
+   * [WALL - SỬA HÀNG RẢO]
    * [FRACTION - PHÂN SỐ](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%204/PhanSo.ipynb)
 ### 5. [Homework](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Ph%E1%BA%A7n%20l%C3%A0m%20BTVN%20c%E1%BB%A7a%20nh%C3%B3m%2012)
 
