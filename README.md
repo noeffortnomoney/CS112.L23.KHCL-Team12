@@ -30,7 +30,7 @@
 
 ## Quá trình học
 ### 1. [Homework](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Ph%E1%BA%A7n%20l%C3%A0m%20BTVN%20c%E1%BB%A7a%20nh%C3%B3m%2012): PHẦN LÀM BTVN CỦA NHÓM 12
-### 2. [Rèn luyện online](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/R%C3%A8n%20Luy%E1%BB%87n%20Online)
+### 2. [Tự Rèn Luyện](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/T%E1%BB%B1%20r%C3%A8n%20luy%E1%BB%87n)
 ### 3. [Assignment]
 ###  + [Assignment 1](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Assignment%201): BOT + SEAWEED
    * [BOT - TRẠM THU PHÍ](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Assignment%201/BOT.ipynb)
