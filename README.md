@@ -27,10 +27,10 @@
   * [Bài làm Homework - các nhóm nộp bài](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Homework/B%C3%A0i%20n%E1%BB%99p%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m%20kh%C3%A1c)
   * [Nhận xét về Homework của các nhóm](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Project/Homework/Nh%E1%BA%ADn%20x%C3%A9t%20ph%E1%BA%A7n%20b%C3%A0i%20l%C3%A0m%20Homework%20c%C3%A1c%20nh%C3%B3m.pdf)
   * [Tài liệu tham khảo](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Project/Reference)
-  ### 2. [BÁO CÁO FINAL_PROJECT]
-  * [Báo cáo cuối kì]
-  * [Biên bản buổi thảo luận]
-  * [Đánh giá Homework các nhóm]
+  ### 2. [BỘ TÀI LIỆU BÁO CÁO CUỐI KỲ](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Bộ%20tài%20liệu%20báo%20cáo%20CK)
+  * [Báo cáo cuối kì](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Bộ%20tài%20liệu%20báo%20cáo%20CK/BÁO%20CÁO%20CUỐI%20KỲ.pdf)
+  * [Biên bản buổi thảo luận](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Bộ%20tài%20liệu%20báo%20cáo%20CK/BIÊN%20BẢN%20BUỔI%20THẢO%20LUẬN.pdf)
+  * [Đánh giá Homework các nhóm](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/blob/main/Bộ%20tài%20liệu%20báo%20cáo%20CK/ĐÁNH%20GIÁ%20HOMEWORK%20CÁC%20NHÓM.pdf)
 
 ## Quá trình học
 ### 1. [Homework](https://github.com/noeffortnomoney/CS112.L23.KHCL-Team12/tree/main/Ph%E1%BA%A7n%20l%C3%A0m%20BTVN%20c%E1%BB%A7a%20nh%C3%B3m%2012): PHẦN LÀM BTVN CỦA NHÓM 12
